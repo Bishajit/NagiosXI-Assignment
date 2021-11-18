@@ -19,7 +19,7 @@ Task 2:
 
 1)Change the security group of your lamp ec2 to allow all traffic
 
-![alt text](C:\Users\Bishajit\Desktop\nagios-assignment\task2-1.png?raw=true "Title")
+![alt text](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-PFCSrwonqVMiIYK5_sNge9bu9z3YuQsEAcUPuMPZm5Tq1YnUf_S-9fUSJGLS4M6KLEib1_lRBnn2YjFl1poa_kqkffMiZCbRuW8ZI=s512)
 
 
 
