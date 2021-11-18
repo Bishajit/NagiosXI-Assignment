@@ -19,6 +19,8 @@ Task 2:
 
 1)Change the security group of your lamp ec2 to allow all traffic
 
+![alt text](C:\Users\Bishajit\Desktop\nagios-assignment\task2-1.png)
+
 
 
 2)Then go back to the terminal that you ssh into the LAMP instance from your Nagios terminal in task 1.And then use this command to add a old ubuntu repo to the LAMP server
