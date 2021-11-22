@@ -31,6 +31,7 @@ sudo echo "deb http://security.ubuntu.com/ubuntu bionic-security main" | sudo te
 sudo apt update
 
 4) Lastly for TASK 2 Make sure the lbssl exists.
+
 ![alt text](https://github.com/Bishajit/NagiosXI-Setup/blob/main/nagios-assignment-screenshots/task2-2.png)
 
 Task 3:
