@@ -2,17 +2,17 @@
 The goal of this task was to add our nagios monitoring tool to our  We implemented nagious monitoring tool on our LAMP stack.
 
 Task 1:
--Ssh into the NagiosXi: ssh -i "Python.pem" ubuntu@pubip
+1)Ssh into the NagiosXi: ssh -i "Python.pem" ubuntu@pubip
 
--Upgrade and update the Nagios ec2 instance: sudo apt update && sudo apt upgrade
+2)Upgrade and update the Nagios ec2 instance: sudo apt update && sudo apt upgrade
 
-Sss-keygen to create a public key and private key: ssh-keygen
+3)Sss-keygen to create a public key and private key: ssh-keygen
 
-Cd ~/.
+4)Cd ~/.
 Copy the contents of your public key 
 And paste into authized keys
 
-ssh -i id_rsa root@18.216.77.164
+5)ssh -i id_rsa root@18.216.77.164
 
 
 Task 2:
