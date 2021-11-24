@@ -1,4 +1,4 @@
-# NagiosXI-Setup
+# NagiosXI-assignment
 The goal of this task was to add our nagios monitoring tool to our  We implemented nagious monitoring tool on our LAMP stack.
 
 Task 1:
